@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MaliciousApp</string>
+    <string name="a11y_description">We use this service to do good stuff! trust us.</string>
+</resources>
